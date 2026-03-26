@@ -1,0 +1,21 @@
+{
+  "name": "Asamblea Cristiana Villa Mercedes",
+  "short_name": "Asamblea Cristiana",
+  "description": "Iglesia evangélica en Villa Mercedes, San Luis. Más de 25 congregaciones en Argentina.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0D1B2A",
+  "theme_color": "#0D1B2A",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

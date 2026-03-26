@@ -1,0 +1,8 @@
+# robots.txt — Asamblea Cristiana Villa Mercedes
+# https://asambleacristianavm.com/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://asambleacristianavm.com/sitemap.xml

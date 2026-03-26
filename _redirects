@@ -1,0 +1,2 @@
+# Redirigir www → sin www (301 permanente)
+https://www.asambleacristianavm.com/* https://asambleacristianavm.com/:splat 301!

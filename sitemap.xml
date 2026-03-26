@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xsi:schemaLocation="
+    http://www.sitemaps.org/schemas/sitemap/0.9
+    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+    http://www.google.com/schemas/sitemap-image/1.1
+    http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!-- ═══════════════════════════════════════════════════
+       PÁGINA PRINCIPAL — máxima prioridad
+  ═══════════════════════════════════════════════════════ -->
+  <url>
+    <loc>https://asambleacristianavm.com/</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773603673/WhatsApp_Image_2026-03-15_at_16.37.38_qud4zr.jpg</image:loc>
+      <image:title>Asamblea Cristiana Villa Mercedes — Iglesia Central</image:title>
+      <image:caption>Iglesia Asamblea Cristiana Villa Mercedes, San Luis, Argentina</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773603673/WhatsApp_Image_2026-03-14_at_10.29.32_z9phq4.jpg</image:loc>
+      <image:title>Culto General — Asamblea Cristiana Villa Mercedes</image:title>
+      <image:caption>Reunión de culto general en la iglesia central</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773448878/juventud-portada_az8mrj.jpg</image:loc>
+      <image:title>Juventud — Asamblea Cristiana Villa Mercedes</image:title>
+      <image:caption>Ministerio de jóvenes de la Asamblea Cristiana</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ═══════════════════════════════════════════════════
+       SECCIONES PRINCIPALES
+  ═══════════════════════════════════════════════════════ -->
+
+  <!-- Nosotros / Quiénes somos -->
+  <url>
+    <loc>https://asambleacristianavm.com/#nosotros</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Red de Filiales / Iglesias -->
+  <url>
+    <loc>https://asambleacristianavm.com/#filiales</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773794398/WhatsApp_Image_2026-03-17_at_21.33.27_bfihpg.jpg</image:loc>
+      <image:title>Asamblea Cristiana Fraga — Filial San Luis</image:title>
+      <image:caption>Congregación en Fraga, San Luis</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773712783/WhatsApp_Image_2026-03-16_at_16.29.18_jnoyi9.jpg</image:loc>
+      <image:title>Asamblea Cristiana San Luis Capital</image:title>
+      <image:caption>Congregación en la capital de San Luis</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773713428/WhatsApp_Image_2026-03-15_at_13.07.20_imkr0j.jpg</image:loc>
+      <image:title>Asamblea Cristiana Santa Rosa del Conlara</image:title>
+      <image:caption>Congregación en Santa Rosa del Conlara, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Ministerios -->
+  <url>
+    <loc>https://asambleacristianavm.com/#ministerios</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Primera Visita -->
+  <url>
+    <loc>https://asambleacristianavm.com/#visita</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Galería -->
+  <url>
+    <loc>https://asambleacristianavm.com/#galeria</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773455615/bautismos_1_cctjch.jpg</image:loc>
+      <image:title>Bautismos — Asamblea Cristiana Villa Mercedes</image:title>
+      <image:caption>Ceremonia de bautismo en la iglesia</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773448879/juventud_y4y9p6.jpg</image:loc>
+      <image:title>Jóvenes — Asamblea Cristiana Villa Mercedes</image:title>
+      <image:caption>Actividades del ministerio de jóvenes</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Mapa / Cómo llegar -->
+  <url>
+    <loc>https://asambleacristianavm.com/#mapa</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- ═══════════════════════════════════════════════════
+       IGLESIAS FILIALES — páginas de detalle
+       (anchor por iglesia para SEO local)
+  ═══════════════════════════════════════════════════════ -->
+
+  <!-- Villa Mercedes — Iglesia Central -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-villa-mercedes</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773603673/WhatsApp_Image_2026-03-15_at_16.37.38_qud4zr.jpg</image:loc>
+      <image:title>Asamblea Cristiana Villa Mercedes — Iglesia Central</image:title>
+      <image:caption>Iglesia Evangélica en Villa Mercedes, San Luis. Guayaquil 8.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Barrio Belgrano -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-barrio-belgrano</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773524000/2_quvlwa.jpg</image:loc>
+      <image:title>Asamblea Cristiana Barrio Belgrano — Villa Mercedes</image:title>
+      <image:caption>Filial en Barrio Belgrano, Villa Mercedes, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Fraga -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-fraga</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773794398/WhatsApp_Image_2026-03-17_at_21.33.27_bfihpg.jpg</image:loc>
+      <image:title>Asamblea Cristiana Fraga — San Luis</image:title>
+      <image:caption>Iglesia evangélica en Fraga, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- La Toma -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-la-toma</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Naschel -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-naschel</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773792295/frente_xu81sy.jpg</image:loc>
+      <image:title>Asamblea Cristiana Naschel — San Luis</image:title>
+      <image:caption>Iglesia evangélica en Naschel, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Concarán -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-concaran</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773710732/WhatsApp_Image_2026-03-15_at_14.03.13_1_dmhuak.jpg</image:loc>
+      <image:title>Asamblea Cristiana Concarán — San Luis</image:title>
+      <image:caption>Iglesia evangélica en Concarán, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- San Luis Capital -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-san-luis</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773712783/WhatsApp_Image_2026-03-16_at_16.29.18_jnoyi9.jpg</image:loc>
+      <image:title>Asamblea Cristiana San Luis Capital</image:title>
+      <image:caption>Iglesia evangélica en San Luis Capital, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Santa Rosa del Conlara -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-santa-rosa-del-conlara</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773713428/WhatsApp_Image_2026-03-15_at_13.07.20_imkr0j.jpg</image:loc>
+      <image:title>Asamblea Cristiana Santa Rosa del Conlara</image:title>
+      <image:caption>Iglesia evangélica en Santa Rosa del Conlara, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Lafinur -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-lafinur</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+
+  <!-- La Paz (Córdoba) -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-la-paz</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773716765/image_awfoil.jpg</image:loc>
+      <image:title>Asamblea Cristiana La Paz — Córdoba</image:title>
+      <image:caption>Iglesia evangélica en La Paz, Córdoba, Argentina</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Bajo de Veliz -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-bajo-de-veliz</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1773793160/016f989d-aae9-4da2-a2e4-5e094e77aa56_iyvguc.jpg</image:loc>
+      <image:title>Asamblea Cristiana Bajo de Veliz — San Luis</image:title>
+      <image:caption>Iglesia evangélica en Bajo de Veliz, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Justo Daract -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-justo-daract</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1774061127/WhatsApp_Image_2026-03-20_at_23.44.00_acsuls.jpg</image:loc>
+      <image:title>Asamblea Cristiana Justo Daract — San Luis</image:title>
+      <image:caption>Iglesia evangélica en Justo Daract, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Vicuña Mackenna -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-vicuna-mackenna</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1774153835/WhatsApp_Image_2026-03-21_at_09.36.52_jgcdxr.jpg</image:loc>
+      <image:title>Asamblea Cristiana Vicuña Mackenna — Córdoba</image:title>
+      <image:caption>Iglesia evangélica en Vicuña Mackenna, Córdoba</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Quines -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-quines</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1774151821/image_rx9p0i.jpg</image:loc>
+      <image:title>Asamblea Cristiana Quines — San Luis</image:title>
+      <image:caption>Iglesia evangélica en Quines, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Candelaria -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-candelaria</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1774061831/image_r4wevx.jpg</image:loc>
+      <image:title>Asamblea Cristiana Candelaria — San Luis</image:title>
+      <image:caption>Iglesia evangélica en Candelaria, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- La Rioja -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-la-rioja</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1774061529/WhatsApp_Image_2026-03-20_at_20.19.29_a1ytcl.jpg</image:loc>
+      <image:title>Asamblea Cristiana La Rioja Capital</image:title>
+      <image:caption>Iglesia evangélica en La Rioja, Argentina</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Laferrere / Km 26 -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-laferrere</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1774060819/WhatsApp_Image_2026-03-20_at_23.37.35_h3xd12.jpg</image:loc>
+      <image:title>Asamblea Cristiana Laferrere (Km 26) — Buenos Aires</image:title>
+      <image:caption>Iglesia evangélica en Laferrere, Buenos Aires</image:caption>
+    </image:image>
+  </url>
+
+
+  <!-- Luján -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-lujan</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+    <image:image>
+      <image:loc>https://res.cloudinary.com/dj5qkvbe4/image/upload/v1774154871/WhatsApp_Image_2026-03-21_at_00.00.52_udvzdc.jpg</image:loc>
+      <image:title>Asamblea Cristiana Luján — San Luis</image:title>
+      <image:caption>Iglesia evangélica en Luján, San Luis</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Barrio Eva Perón -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-barrio-eva-peron</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+
+  <!-- Barrio La Ribera -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-barrio-la-ribera</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.65</priority>
+  </url>
+
+  <!-- Merlo -->
+  <url>
+    <loc>https://asambleacristianavm.com/#iglesia-merlo</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
